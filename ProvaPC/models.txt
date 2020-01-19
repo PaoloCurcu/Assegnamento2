@@ -1,0 +1,6 @@
+aspirapolvere.txt
+lavatrice.txt
+frullatore.txt
+lavastoviglie.txt
+tostapane.txt
+phon.txt
